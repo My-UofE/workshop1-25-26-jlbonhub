@@ -11,4 +11,4 @@ def test_check_higher_lower():
     assert result3==False
     
     result4 = check_higher_lower(10,0,'l')
-    assert result4==True
+    assert result4==False
